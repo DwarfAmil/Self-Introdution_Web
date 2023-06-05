@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "npx nodemon -e pug"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "pug": "^3.0.2",
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}
